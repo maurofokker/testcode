@@ -5,8 +5,8 @@ package com.maurofokker.test.utils;
  */
 public class Tuple<A, B> {
 
-    public final A a;
-    public final B b;
+    public A a;
+    public B b;
 
     public Tuple(A a, B b) {
         this.a = a;
