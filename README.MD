@@ -6,3 +6,4 @@
     * streams
     * collections
     * arrays
+    * LinkedList
